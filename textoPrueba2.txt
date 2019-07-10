@@ -1,0 +1,14 @@
+Archivo de texto del adivinador de animales
+vuela,come fruta,ladra
+come fruta,murciélago,es pequeño
+murciélago,null,null
+es pequeño,mariposa,águila
+mariposa,null,null
+águila,null,null
+ladra,perro,es muy alto
+perro,null,null
+es muy alto,jirafa,nada
+jirafa,null,null
+nada,ballena,tigre
+ballena,null,null
+tigre,null,null

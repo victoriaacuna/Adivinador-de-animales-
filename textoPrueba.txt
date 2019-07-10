@@ -1,0 +1,12 @@
+Archivo de texto del adivinador de animales
+tiene melena,león,nada
+león,null,null
+nada,es muy grande,vive en árboles
+es muy grande,ballena,pez
+ballena,null,null
+pez,null,null
+vive en árboles,mono,ladra
+mono,null,null
+ladra,perro,tigre
+perro,null,null
+tigre,null,null
